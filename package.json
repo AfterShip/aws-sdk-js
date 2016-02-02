@@ -1,13 +1,13 @@
 {
     "name": "@aftership/aws-sdk",
     "description": "AWS SDK for JavaScript",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": {
       "name":"Amazon Web Services",
       "email":"",
-      "url":"http://aws.amazon.com/"
+      "url":"http://www.aftership.com"
     },
-    "homepage": "https://github.com/aws/aws-sdk-js",
+    "homepage": "https://github.com/AfterShip/aws-sdk-js",
     "contributors": [
       "Loren Segal <lsegal@amazon.com>",
       "Trevor Rowe <trevrowe@amazon.com>"
@@ -42,10 +42,10 @@
     },
     "repository": {
       "type" : "git",
-      "url": "git://github.com/aws/aws-sdk-js"
+      "url": "git@github.com:AfterShip/aws-sdk-js.git"
     },
     "bugs" : {
-      "url" : "http://github.com/aws/aws-sdk-js/issues",
+      "url" : "https://github.com/AfterShip/aws-sdk-js",
       "mail" : ""
     },
     "license": "Apache-2.0",
