@@ -8,3 +8,8 @@ doc
 test/browser/build
 test/browser/sample/appinfo.js
 dist/aws-sdk-all.js
+# ------------------------------------------------------------------------------
+# for aftership-publish making use of https://github.com/inikulin/publish-please
+# ------------------------------------------------------------------------------
+.publishrc
+.npmignore

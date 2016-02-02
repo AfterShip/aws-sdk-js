@@ -1,5 +1,5 @@
 {
-    "name": "aws-sdk",
+    "name": "@aftership/aws-sdk",
     "description": "AWS SDK for JavaScript",
     "version": "1.0.0",
     "author": {
