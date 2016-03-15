@@ -1,7 +1,7 @@
 {
     "name": "@aftership/aws-sdk",
     "description": "AWS SDK for JavaScript",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "author": {
       "name":"Amazon Web Services",
       "email":"",
